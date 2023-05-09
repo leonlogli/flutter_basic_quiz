@@ -1,6 +1,6 @@
 # flutter_basic_quiz
 
-A new Flutter project.
+Basic quiz app to dive deep flutter and dart fondamentals.
 
 ## Getting Started
 
